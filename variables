@@ -1,0 +1,7 @@
+const person = {
+  name: "Terrance Roberts",
+  occupation: {
+    title: "District Manager"
+  }
+}
+
